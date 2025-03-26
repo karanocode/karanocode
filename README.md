@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me - email - karankanchan21@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am 37 yo and still learning.
+- ⚡ Fun fact: I like long distance cycling when I am not coding. 
 
 <!---
 karanocode/karanocode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
